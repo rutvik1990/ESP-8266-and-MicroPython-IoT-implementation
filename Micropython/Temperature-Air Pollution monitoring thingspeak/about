@@ -1,1 +1,4 @@
 Analog/Digital sensor data monitoring using thingspeak and HTTTPS
+
+ 5_1.Temperature Monitoring with Thingspeak - Micropython + NodeMCU
+ 5_2.reading data from thingspeak_iot - Python 3.x
